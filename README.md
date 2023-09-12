@@ -1,4 +1,4 @@
-Biofilm 3-Phase Model
+Biofilm 3-Phase Model\h
 The MATLAB code herein have been developed to produce numerical approximations of the model described in the paper
 
 A three-phase model for biofilm formation on a porous solid surface
