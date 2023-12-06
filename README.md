@@ -1,4 +1,4 @@
-Biofilm 3-Phase Model	
+#Biofilm 3-Phase Model	
 
 The MATLAB code herein have been developed to produce numerical approximations of the model described in the paper
 
