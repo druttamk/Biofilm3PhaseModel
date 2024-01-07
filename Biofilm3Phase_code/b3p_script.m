@@ -18,7 +18,7 @@ phic = phic0.*(1 - tanh(5.*(r - Rin)))./2;
 phie = phie0.*(1 - tanh(5.*(r - Rin)))./2;
 phia = phia0.*(1 - tanh(5.*(r - Rin)))./2; 
 
-cs = ones(1,nx); cb = zeros(1,nx);
+cs = ones(1,n); cb = zeros(1,n);
 y0 = [h,phic,phie,phia,cs,cb];
 
 tf = [0 T];
