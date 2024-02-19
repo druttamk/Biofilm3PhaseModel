@@ -4,6 +4,8 @@ The MATLAB code herein have been developed to produce numerical approximations o
 
 A three-phase model for biofilm formation on a porous solid surface
 Uttam Kumar, Subramaniam Pushpavanam
+https://doi.org/10.1063/5.0190952
+
 Department of Chemical Engineering, Indian Institute of Technology Madras, Chennai, Tamil Nadu 600036, India
 
 
